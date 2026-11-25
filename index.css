@@ -1,0 +1,15 @@
+h1{
+    color: #f4071e;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem;
+    background-color: #f4071e;
+}
+#navbar > button{
+    background-color: black;
+    color: white;
+}
