@@ -1,1 +1,0 @@
-alert("Welcome to the F1 Website!");
